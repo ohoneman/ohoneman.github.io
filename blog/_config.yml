@@ -78,6 +78,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: https://github.com/ohoneman/ohoneman.github.io.git
+  #repo: https://github.com/ohoneman/ohoneman.github.io.git
+  repo: https://NfV00hI2Nczn-8ul4pWYNg@github.com/ohoneman/ohoneman.github.io.git
   branch: master
   name: ohoneman
