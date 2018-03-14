@@ -13,11 +13,3 @@ before_script:
 - sed -i "s/__GITHUB_TOKEN__/${NfV00hI2Nczn-8ul4pWYNg}/" _config.yml
 
 script: npm run build
-
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: NfV00hI2Nczn-8ul4pWYNg  # Set in travis-ci.org dashboard, marked secure
-  keep-history: true
-  on:
-    branch: source
