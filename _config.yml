@@ -79,6 +79,6 @@ theme: landscape
 deploy: 
   type: git
   #repo: https://github.com/ohoneman/ohoneman.github.io.git
-  repo: https://__GITHUB_TOKEN__@github.com/ohoneman/ohoneman.github.io.git
+  repo: https://${GITHUB_TOKEN}@github.com/ohoneman/ohoneman.github.io.git
   branch: master
   name: ohoneman
