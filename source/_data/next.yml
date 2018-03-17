@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Software Development is fun! 🐱‍🐉
-subtitle: html, css, frontend and backend that I find interesting other stuffs. 🏗️
-description: I took the path that I start to work and learning for the web technologies. 
+title: Web Technologies are fun! 🐱‍🐉</span>
+subtitle: html, css, frontend and backend that I find very interesting stuffs. 🏗️
+description: Fun with Web Technologies. 🐣
 author: Cheong Hun Kim
 language: en
 timezone: America/Montreal
@@ -88,7 +88,6 @@ deploy:
   branch: master
   name: ohoneman
 
----
 # Theme Next Configuration
 # ===============================================================
 # ========================= ATTENTION! ==========================
@@ -186,7 +185,7 @@ index_with_subtitle: false
 menu:
   home: / || home
   #about: /about/ || user
-  #tags: /tags/ || tags
+  tags: /tags/ || tags
   #categories: /categories/ || th
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
@@ -220,8 +219,8 @@ scheme: Muse
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/ohoneman || github
-  E-Mail: mailto:ohoneman@gmail.com || envelope
-  Google: https://plus.google.com/ohoneman || google
+  #E-Mail: mailto:ohoneman@gmail.com || envelope
+  Google: https://plus.google.com/+CheongHunKim || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
@@ -764,7 +763,7 @@ motion:
     sidebar: slideUpIn
 
 # Fancybox
-fancybox: true
+fancybox: false
 
 # Progress bar in the top during page loading.
 pace: false

@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Software Development is fun! 🐱‍🐉
-subtitle: html, css, frontend and backend that I find interesting other stuffs. 🏗️
+title: Software Development is fun! ?‍?
+subtitle: html, css, frontend and backend that I find interesting other stuffs. ?️
 description: I took the path that I start to work and learning for the web technologies. 
 author: Cheong Hun Kim
 language: en
@@ -55,7 +55,12 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  C++: c-plus-plus
+  C#: c-sharp
+  .NET: dot-net
 tag_map:
+  c#: c-sharp
+  .net: dot-net
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date

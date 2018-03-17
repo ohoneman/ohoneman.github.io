@@ -18,6 +18,7 @@
     "hexo-server": "^0.2.0"
   },
   "scripts": {
-    "build": "hexo clean && hexo generate && hexo deploy"
+    "local": "hexo clean --config source/_data/next.yml && hexo generate --config source/_data/next.yml && hexo server -o --config source/_data/next.yml",
+    "build": "hexo clean --config source/_data/next.yml && hexo generate --config source/_data/next.yml && hexo deploy --config source/_data/next.yml"
   }
 }
