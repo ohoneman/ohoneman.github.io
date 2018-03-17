@@ -1,5 +1,5 @@
 ---
-title: window 10 hotkey for screenshot
+title: WINDOW 10 Hotkey For Screen Saver
 tags:
   - Window 10
   - Screen Saver
