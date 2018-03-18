@@ -14,10 +14,11 @@ git:
 before_script:
 - git config --global user.name "cheong hun kim travis ci"
 - git config --global user.email "ohoneman@gmail.com"
-- sed -i "s/__GITHUB_TOKEN__/${GITHUB_TOKEN}/" _config.yml
 - git submodule init
 - git submodule sync
 - git submodule foreach "(git checkout master; git pull)"
 - git submodule update --init --recursive
+- sed -i "s/__GITHUB_TOKEN__/${GITHUB_TOKEN}/" _config.yml
+- less _config.yml
 
 script: npm run build
