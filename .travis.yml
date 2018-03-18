@@ -11,5 +11,6 @@ before_script:
 - git config --global user.name "cheong hun kim travis ci"
 - git config --global user.email "ohoneman@gmail.com"
 - sed -i "s/__GITHUB_TOKEN__/${GITHUB_TOKEN}/" _config.yml
+- git submodule update --init --recursive
 
 script: npm run build
