@@ -1,5 +1,5 @@
 ---
-title: WINDOW 10 Hotkey For Screen Saver
+title: Window 10 ScreenSaver for Custom Shortcut <kdb>CTRL</kdb>+<kdb>ALT</kdb>+<kdb>L</kdb>
 tags:
   - Window 10
   - Screen Saver
@@ -14,7 +14,8 @@ date: 2018-03-17 10:56:02
 
 ## But It Can Be Possible
 
-### {% asset_img "window.10.screenshot.hotkey.Ctrl+Alt+L.gif" "window 10 screenshot hot key <kdb>CTRL</kdb>+<kdb>ALT</kdb>+<kdb>L</kdb>" %}
+![Window 10 ScreenSaver for Custom Shortcut CTRL+ALT+L](images/window.10.screenshot.hotkey.Ctrl+Alt+L.gif "Window 10 ScreenSaver for Custom Shortcut CTRL+ALT+L")
+
 
 ## here is the Steps
 1. open explorere with folder `C:\Windows\SysWOW64`
