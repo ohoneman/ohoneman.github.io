@@ -17,8 +17,9 @@ thumbnail:
 > **Don't forgot to trying the exercises bottom of the contents.**
 
 - 2.3. [DOM Breakpoints](http://blittle.github.io/chrome-dev-tools/elements/dom-breakpoints.html)
-
-... 
+- 2.5. [Computed Properties](http://blittle.github.io/chrome-dev-tools/elements/computed-properties.html)
+- 4.4. [Workspaces](http://blittle.github.io/chrome-dev-tools/sources/workspaces.html)
+- 4.14. [Source Maps](http://blittle.github.io/chrome-dev-tools/sources/maps.html)
 
 <img style="min-width:100%" src="https://media.giphy.com/media/3o6ZsWdvMYY44xVk7S/giphy.gif" alt="to be continued"></img>
 
