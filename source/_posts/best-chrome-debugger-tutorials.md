@@ -20,3 +20,8 @@ thumbnail:
 - 2.5. [Computed Properties](http://blittle.github.io/chrome-dev-tools/elements/computed-properties.html "Computed Properties")
 - 4.4. [Workspaces](http://blittle.github.io/chrome-dev-tools/sources/workspaces.html)
 - 4.14. [Source Maps](http://blittle.github.io/chrome-dev-tools/sources/maps.html)
+
+<figure>
+  <img src="https://media.giphy.com/media/fECTyvPYevOHC/giphy.gif" alt="let's debugging" title="let's debugging" style="border:1px solid black;min-width:100%;border-color:rgba(0,0,0,0.3)"></img>
+  <figcaption>Let's Debugging</figcaption>
+</figure>
