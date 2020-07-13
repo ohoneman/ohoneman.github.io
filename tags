@@ -1,0 +1,262 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+$	public/lib/velocity/velocity.js	/^    var $ = function (selector, context) {$/;"	f
+$	public/lib/velocity/velocity.js	/^    var $,$/;"	v
+$	themes/next/source/lib/velocity/velocity.js	/^    var $ = function (selector, context) {$/;"	f
+$	themes/next/source/lib/velocity/velocity.js	/^    var $,$/;"	v
+$.data	public/lib/velocity/velocity.js	/^    $.data = function (node, key, value) {$/;"	f
+$.data	themes/next/source/lib/velocity/velocity.js	/^    $.data = function (node, key, value) {$/;"	f
+$.dequeue	public/lib/velocity/velocity.js	/^    $.dequeue = function (elems, type) {$/;"	f
+$.dequeue	themes/next/source/lib/velocity/velocity.js	/^    $.dequeue = function (elems, type) {$/;"	f
+$.each	public/lib/velocity/velocity.js	/^    $.each = function(obj, callback, args) {$/;"	f
+$.each	themes/next/source/lib/velocity/velocity.js	/^    $.each = function(obj, callback, args) {$/;"	f
+$.extend	public/lib/velocity/velocity.js	/^    $.extend = function () {$/;"	f
+$.extend	themes/next/source/lib/velocity/velocity.js	/^    $.extend = function () {$/;"	f
+$.fn.init	public/lib/velocity/velocity.js	/^    $.fn.init.prototype = $.fn;$/;"	c
+$.fn.init	themes/next/source/lib/velocity/velocity.js	/^    $.fn.init.prototype = $.fn;$/;"	c
+$.isPlainObject	public/lib/velocity/velocity.js	/^    $.isPlainObject = function (obj) {$/;"	f
+$.isPlainObject	themes/next/source/lib/velocity/velocity.js	/^    $.isPlainObject = function (obj) {$/;"	f
+$.isWindow	public/lib/velocity/velocity.js	/^    $.isWindow = function (obj) {$/;"	f
+$.isWindow	themes/next/source/lib/velocity/velocity.js	/^    $.isWindow = function (obj) {$/;"	f
+$.queue	public/lib/velocity/velocity.js	/^    $.queue = function (elem, type, data) {$/;"	f
+$.queue	themes/next/source/lib/velocity/velocity.js	/^    $.queue = function (elem, type, data) {$/;"	f
+$.queue.$makeArray	public/lib/velocity/velocity.js	/^        function $makeArray (arr, results) {$/;"	f
+$.queue.$makeArray	themes/next/source/lib/velocity/velocity.js	/^        function $makeArray (arr, results) {$/;"	f
+$.removeData	public/lib/velocity/velocity.js	/^    $.removeData = function (node, keys) {$/;"	f
+$.removeData	themes/next/source/lib/velocity/velocity.js	/^    $.removeData = function (node, keys) {$/;"	f
+$.type	public/lib/velocity/velocity.js	/^    $.type = function (obj) {$/;"	f
+$.type	themes/next/source/lib/velocity/velocity.js	/^    $.type = function (obj) {$/;"	f
+$top	public/js/src/utils.js	/^    var $top = $('.back-to-top');$/;"	v
+$top	themes/next/source/js/src/utils.js	/^    var $top = $('.back-to-top');$/;"	v
+Affix	public/js/src/affix.js	/^  Affix.prototype.getState = function (scrollHeight, height, offsetTop, offsetBottom) {$/;"	c
+Affix	themes/next/source/js/src/affix.js	/^  Affix.prototype.getState = function (scrollHeight, height, offsetTop, offsetBottom) {$/;"	c
+Affix.Affix	public/js/src/affix.js	/^  Affix.prototype.getPinnedOffset = function () {$/;"	c
+Affix.Affix	themes/next/source/js/src/affix.js	/^  Affix.prototype.getPinnedOffset = function () {$/;"	c
+Affix.Affix.checkPosition	public/js/src/affix.js	/^  Affix.prototype.checkPosition = function () {$/;"	m
+Affix.Affix.checkPosition	themes/next/source/js/src/affix.js	/^  Affix.prototype.checkPosition = function () {$/;"	m
+Affix.Affix.checkPositionWithEventLoop	public/js/src/affix.js	/^  Affix.prototype.checkPositionWithEventLoop = function () {$/;"	m
+Affix.Affix.checkPositionWithEventLoop	themes/next/source/js/src/affix.js	/^  Affix.prototype.checkPositionWithEventLoop = function () {$/;"	m
+Affix.function.Plugin	public/js/src/affix.js	/^  function Plugin(option) {$/;"	f
+Affix.function.Plugin	themes/next/source/js/src/affix.js	/^  function Plugin(option) {$/;"	f
+Affix.getState	public/js/src/affix.js	/^  Affix.prototype.getState = function (scrollHeight, height, offsetTop, offsetBottom) {$/;"	m
+Affix.getState	themes/next/source/js/src/affix.js	/^  Affix.prototype.getState = function (scrollHeight, height, offsetTop, offsetBottom) {$/;"	m
+CSS.Normalizations.registered	public/lib/velocity/velocity.js	/^                        CSS.Normalizations.registered[transformName] = function (type, element, propertyValue) {$/;"	f
+CSS.Normalizations.registered	themes/next/source/lib/velocity/velocity.js	/^                        CSS.Normalizations.registered[transformName] = function (type, element, propertyValue) {$/;"	f
+DURATION_DEFAULT	public/lib/velocity/velocity.js	/^    var DURATION_DEFAULT = 400,$/;"	v
+DURATION_DEFAULT	themes/next/source/lib/velocity/velocity.js	/^    var DURATION_DEFAULT = 400,$/;"	v
+Data	public/lib/velocity/velocity.js	/^    function Data (element) {$/;"	f
+Data	themes/next/source/lib/velocity/velocity.js	/^    function Data (element) {$/;"	f
+HASH_UNDEFINED	themes/next/scripts/merge.js	/^var HASH_UNDEFINED = '__lodash_hash_undefined__';$/;"	v
+LARGE_ARRAY_SIZE	themes/next/scripts/merge.js	/^var LARGE_ARRAY_SIZE = 200;$/;"	v
+MAX_SAFE_INTEGER	themes/next/scripts/merge.js	/^var MAX_SAFE_INTEGER = 9007199254740991;$/;"	v
+SUPPORTED_PLAYERS	public/js/src/utils.js	/^    var SUPPORTED_PLAYERS = [$/;"	v
+SUPPORTED_PLAYERS	themes/next/source/js/src/utils.js	/^    var SUPPORTED_PLAYERS = [$/;"	v
+ScrollSpy	public/js/src/scrollspy.js	/^  ScrollSpy.prototype.getScrollHeight = function () {$/;"	c
+ScrollSpy	themes/next/source/js/src/scrollspy.js	/^  ScrollSpy.prototype.getScrollHeight = function () {$/;"	c
+ScrollSpy.ScrollSpy	public/js/src/scrollspy.js	/^  ScrollSpy.prototype.clear = function () {$/;"	c
+ScrollSpy.ScrollSpy	themes/next/source/js/src/scrollspy.js	/^  ScrollSpy.prototype.clear = function () {$/;"	c
+ScrollSpy.function.Plugin	public/js/src/scrollspy.js	/^  function Plugin(option) {$/;"	f
+ScrollSpy.function.Plugin	themes/next/source/js/src/scrollspy.js	/^  function Plugin(option) {$/;"	f
+ScrollSpy.getScrollHeight	public/js/src/scrollspy.js	/^  ScrollSpy.prototype.getScrollHeight = function () {$/;"	m
+ScrollSpy.getScrollHeight	themes/next/source/js/src/scrollspy.js	/^  ScrollSpy.prototype.getScrollHeight = function () {$/;"	m
+ScrollSpy.refresh	public/js/src/scrollspy.js	/^  ScrollSpy.prototype.refresh = function () {$/;"	m
+ScrollSpy.refresh	themes/next/source/js/src/scrollspy.js	/^  ScrollSpy.prototype.refresh = function () {$/;"	m
+Type.isArray	public/lib/velocity/velocity.js	/^        isArray: Array.isArray || function (variable) {$/;"	p
+Type.isArray	themes/next/source/lib/velocity/velocity.js	/^        isArray: Array.isArray || function (variable) {$/;"	p
+Type.isString	public/lib/velocity/velocity.js	/^        isString: function (variable) {$/;"	m
+Type.isString	themes/next/source/lib/velocity/velocity.js	/^        isString: function (variable) {$/;"	m
+Velocity.Easings.linear	public/lib/velocity/velocity.js	/^        linear: function(p) { return p; },$/;"	m
+Velocity.Easings.linear	themes/next/source/lib/velocity/velocity.js	/^        linear: function(p) { return p; },$/;"	m
+Velocity.Easings.spring	public/lib/velocity/velocity.js	/^        spring: function(p) { return 1 - (Math.cos(p * 4.5 * Math.PI) * Math.exp(-p * 6)); }$/;"	m
+Velocity.Easings.spring	themes/next/source/lib/velocity/velocity.js	/^        spring: function(p) { return 1 - (Math.cos(p * 4.5 * Math.PI) * Math.exp(-p * 6)); }$/;"	m
+Velocity.Easings.swing	public/lib/velocity/velocity.js	/^        swing: function(p) { return 0.5 - Math.cos( p * Math.PI ) \/ 2 },$/;"	m
+Velocity.Easings.swing	themes/next/source/lib/velocity/velocity.js	/^        swing: function(p) { return 0.5 - Math.cos( p * Math.PI ) \/ 2 },$/;"	m
+Velocity.Redirects	public/lib/velocity/velocity.ui.js	/^        Velocity.Redirects[effectName] = function (element, redirectOptions, elementsIndex, elementsSize, elements, promiseData) {$/;"	f
+Velocity.Redirects	themes/next/source/lib/velocity/velocity.ui.js	/^        Velocity.Redirects[effectName] = function (element, redirectOptions, elementsIndex, elementsSize, elements, promiseData) {$/;"	f
+Velocity.RegisterEffect.packagedEffects.callout.bounce	public/lib/velocity/velocity.ui.js	/^            "callout.bounce": {$/;"	p
+Velocity.RegisterEffect.packagedEffects.callout.bounce	themes/next/source/lib/velocity/velocity.ui.js	/^            "callout.bounce": {$/;"	p
+Velocity.RunSequence	public/lib/velocity/velocity.ui.js	/^    Velocity.RunSequence = function (originalSequence) {$/;"	f
+Velocity.RunSequence	themes/next/source/lib/velocity/velocity.ui.js	/^    Velocity.RunSequence = function (originalSequence) {$/;"	f
+Velocity.State	public/lib/velocity/velocity.js	/^        State: {$/;"	p
+Velocity.State	themes/next/source/lib/velocity/velocity.js	/^        State: {$/;"	p
+Velocity.hook	public/lib/velocity/velocity.js	/^    Velocity.hook = function (elements, arg2, arg3) {$/;"	f
+Velocity.hook	themes/next/source/lib/velocity/velocity.js	/^    Velocity.hook = function (elements, arg2, arg3) {$/;"	f
+addMapEntry	themes/next/scripts/merge.js	/^function addMapEntry(map, pair) {$/;"	f
+addSetEntry	themes/next/scripts/merge.js	/^function addSetEntry(set, value) {$/;"	f
+animate	public/lib/velocity/velocity.js	/^    var animate = function() {$/;"	f
+animate	themes/next/source/lib/velocity/velocity.js	/^    var animate = function() {$/;"	f
+animate.getChain	public/lib/velocity/velocity.js	/^        function getChain () {$/;"	f
+animate.getChain	themes/next/source/lib/velocity/velocity.js	/^        function getChain () {$/;"	f
+animate.promiseData.promise	public/lib/velocity/velocity.js	/^                promise: null,$/;"	p
+animate.promiseData.promise	themes/next/source/lib/velocity/velocity.js	/^                promise: null,$/;"	p
+animate.promiseData.rejecter	public/lib/velocity/velocity.js	/^                rejecter: null$/;"	p
+animate.promiseData.rejecter	themes/next/source/lib/velocity/velocity.js	/^                rejecter: null$/;"	p
+animate.promiseData.resolver	public/lib/velocity/velocity.js	/^                resolver: null,$/;"	p
+animate.promiseData.resolver	themes/next/source/lib/velocity/velocity.js	/^                resolver: null,$/;"	p
+api.get	public/js/src/js.cookie.js	/^		api.get = function (key) {$/;"	f
+api.get	themes/next/source/js/src/js.cookie.js	/^		api.get = function (key) {$/;"	f
+api.getJSON	public/js/src/js.cookie.js	/^		api.getJSON = function () {$/;"	f
+api.getJSON	themes/next/source/js/src/js.cookie.js	/^		api.getJSON = function () {$/;"	f
+api.noConflict	public/js/src/js.cookie.js	/^		api.noConflict = function () {$/;"	f
+api.noConflict	themes/next/source/js/src/js.cookie.js	/^		api.noConflict = function () {$/;"	f
+api.remove	public/js/src/js.cookie.js	/^		api.remove = function (key, attributes) {$/;"	f
+api.remove	themes/next/source/js/src/js.cookie.js	/^		api.remove = function (key, attributes) {$/;"	f
+apply	themes/next/scripts/merge.js	/^function apply(func, thisArg, args) {$/;"	f
+argsTag	themes/next/scripts/merge.js	/^var argsTag = '[object Arguments]',$/;"	v
+arrayBufferTag	themes/next/scripts/merge.js	/^var arrayBufferTag = '[object ArrayBuffer]',$/;"	v
+arrayEach	themes/next/scripts/merge.js	/^function arrayEach(array, iteratee) {$/;"	f
+arrayProto	themes/next/scripts/merge.js	/^var arrayProto = Array.prototype,$/;"	v
+arrayPush	themes/next/scripts/merge.js	/^function arrayPush(array, values) {$/;"	f
+arrayReduce	themes/next/scripts/merge.js	/^function arrayReduce(array, iteratee, accumulator, initAccum) {$/;"	f
+baseTimes	themes/next/scripts/merge.js	/^function baseTimes(n, iteratee) {$/;"	f
+baseUnary	themes/next/scripts/merge.js	/^function baseUnary(func) {$/;"	f
+callUnitConversionData.lastEmToPx	public/lib/velocity/velocity.js	/^                lastEmToPx: null,$/;"	p
+callUnitConversionData.lastEmToPx	themes/next/source/lib/velocity/velocity.js	/^                lastEmToPx: null,$/;"	p
+callUnitConversionData.lastFontSize	public/lib/velocity/velocity.js	/^                lastFontSize: null,$/;"	p
+callUnitConversionData.lastFontSize	themes/next/source/lib/velocity/velocity.js	/^                lastFontSize: null,$/;"	p
+callUnitConversionData.lastParent	public/lib/velocity/velocity.js	/^                lastParent: null,$/;"	p
+callUnitConversionData.lastParent	themes/next/source/lib/velocity/velocity.js	/^                lastParent: null,$/;"	p
+callUnitConversionData.lastPercentToPxHeight	public/lib/velocity/velocity.js	/^                lastPercentToPxHeight: null,$/;"	p
+callUnitConversionData.lastPercentToPxHeight	themes/next/source/lib/velocity/velocity.js	/^                lastPercentToPxHeight: null,$/;"	p
+callUnitConversionData.lastPercentToPxWidth	public/lib/velocity/velocity.js	/^                lastPercentToPxWidth: null,$/;"	p
+callUnitConversionData.lastPercentToPxWidth	themes/next/source/lib/velocity/velocity.js	/^                lastPercentToPxWidth: null,$/;"	p
+callUnitConversionData.lastPosition	public/lib/velocity/velocity.js	/^                lastPosition: null,$/;"	p
+callUnitConversionData.lastPosition	themes/next/source/lib/velocity/velocity.js	/^                lastPosition: null,$/;"	p
+callUnitConversionData.remToPx	public/lib/velocity/velocity.js	/^                remToPx: null,$/;"	p
+callUnitConversionData.remToPx	themes/next/source/lib/velocity/velocity.js	/^                remToPx: null,$/;"	p
+callUnitConversionData.vhToPx	public/lib/velocity/velocity.js	/^                vhToPx: null$/;"	p
+callUnitConversionData.vhToPx	themes/next/source/lib/velocity/velocity.js	/^                vhToPx: null$/;"	p
+callUnitConversionData.vwToPx	public/lib/velocity/velocity.js	/^                vwToPx: null,$/;"	p
+callUnitConversionData.vwToPx	themes/next/source/lib/velocity/velocity.js	/^                vwToPx: null,$/;"	p
+compactSparseArray	public/lib/velocity/velocity.js	/^    function compactSparseArray (array) {$/;"	f
+compactSparseArray	themes/next/source/lib/velocity/velocity.js	/^    function compactSparseArray (array) {$/;"	f
+coreJsData	themes/next/scripts/merge.js	/^var coreJsData = root['__core-js_shared__'];$/;"	v
+f.getControlPoints	public/lib/velocity/velocity.js	/^        f.getControlPoints = function() { return [{ x: mX1, y: mY1 }, { x: mX2, y: mY2 }]; };$/;"	f
+f.getControlPoints	themes/next/source/lib/velocity/velocity.js	/^        f.getControlPoints = function() { return [{ x: mX1, y: mY1 }, { x: mX2, y: mY2 }]; };$/;"	f
+f.toString	public/lib/velocity/velocity.js	/^        f.toString = function () { return str; };$/;"	f
+f.toString	themes/next/source/lib/velocity/velocity.js	/^        f.toString = function () { return str; };$/;"	f
+freeExports	themes/next/scripts/merge.js	/^var freeExports = typeof exports == 'object' && exports && !exports.nodeType && exports;$/;"	v
+freeGlobal	themes/next/scripts/merge.js	/^var freeGlobal = typeof global == 'object' && global && global.Object === Object && global;$/;"	v
+freeModule	themes/next/scripts/merge.js	/^var freeModule = freeExports && typeof module == 'object' && module && !module.nodeType && module;$/;"	v
+freeProcess	themes/next/scripts/merge.js	/^var freeProcess = moduleExports && freeGlobal.process;$/;"	v
+freeSelf	themes/next/scripts/merge.js	/^var freeSelf = typeof self == 'object' && self && self.Object === Object && self;$/;"	v
+funcToString	themes/next/scripts/merge.js	/^var funcToString = funcProto.toString;$/;"	v
+function.animateParentHeight	public/lib/velocity/velocity.ui.js	/^        function animateParentHeight (elements, direction, totalDuration, stagger) {$/;"	f
+function.animateParentHeight	themes/next/source/lib/velocity/velocity.ui.js	/^        function animateParentHeight (elements, direction, totalDuration, stagger) {$/;"	f
+function.getTransformFloat	public/lib/velocity/velocity.js	/^                function getTransformFloat (transformProperty) {$/;"	f
+function.getTransformFloat	themes/next/source/lib/velocity/velocity.js	/^                function getTransformFloat (transformProperty) {$/;"	f
+function.injectFinalCallbacks	public/lib/velocity/velocity.ui.js	/^                    function injectFinalCallbacks () {$/;"	f
+function.injectFinalCallbacks	themes/next/source/lib/velocity/velocity.ui.js	/^                    function injectFinalCallbacks () {$/;"	f
+function.parsePropertyValue	public/lib/velocity/velocity.js	/^                    function parsePropertyValue (valueData, skipResolvingEasing) {$/;"	f
+function.parsePropertyValue	themes/next/source/lib/velocity/velocity.js	/^                    function parsePropertyValue (valueData, skipResolvingEasing) {$/;"	f
+function.revertDisplay	public/lib/velocity/velocity.js	/^                    function revertDisplay () {$/;"	f
+function.revertDisplay	themes/next/source/lib/velocity/velocity.js	/^                    function revertDisplay () {$/;"	f
+function.separateValue	public/lib/velocity/velocity.js	/^                        function separateValue (property, value) {$/;"	f
+function.separateValue	themes/next/source/lib/velocity/velocity.js	/^                        function separateValue (property, value) {$/;"	f
+generateBezier	public/lib/velocity/velocity.js	/^    function generateBezier (mX1, mY1, mX2, mY2) {$/;"	f
+generateBezier	themes/next/source/lib/velocity/velocity.js	/^    function generateBezier (mX1, mY1, mX2, mY2) {$/;"	f
+generateBezier.A	public/lib/velocity/velocity.js	/^        function A (aA1, aA2) { return 1.0 - 3.0 * aA2 + 3.0 * aA1; }$/;"	f
+generateBezier.A	themes/next/source/lib/velocity/velocity.js	/^        function A (aA1, aA2) { return 1.0 - 3.0 * aA2 + 3.0 * aA1; }$/;"	f
+generateBezier.B	public/lib/velocity/velocity.js	/^        function B (aA1, aA2) { return 3.0 * aA2 - 6.0 * aA1; }$/;"	f
+generateBezier.B	themes/next/source/lib/velocity/velocity.js	/^        function B (aA1, aA2) { return 3.0 * aA2 - 6.0 * aA1; }$/;"	f
+generateBezier.C	public/lib/velocity/velocity.js	/^        function C (aA1)      { return 3.0 * aA1; }$/;"	f
+generateBezier.C	themes/next/source/lib/velocity/velocity.js	/^        function C (aA1)      { return 3.0 * aA1; }$/;"	f
+generateBezier.binarySubdivide	public/lib/velocity/velocity.js	/^        function binarySubdivide (aX, aA, aB) {$/;"	f
+generateBezier.binarySubdivide	themes/next/source/lib/velocity/velocity.js	/^        function binarySubdivide (aX, aA, aB) {$/;"	f
+generateBezier.calcBezier	public/lib/velocity/velocity.js	/^        function calcBezier (aT, aA1, aA2) {$/;"	f
+generateBezier.calcBezier	themes/next/source/lib/velocity/velocity.js	/^        function calcBezier (aT, aA1, aA2) {$/;"	f
+generateBezier.calcSampleValues	public/lib/velocity/velocity.js	/^        function calcSampleValues () {$/;"	f
+generateBezier.calcSampleValues	themes/next/source/lib/velocity/velocity.js	/^        function calcSampleValues () {$/;"	f
+generateBezier.f	public/lib/velocity/velocity.js	/^        var f = function (aX) {$/;"	f
+generateBezier.f	themes/next/source/lib/velocity/velocity.js	/^        var f = function (aX) {$/;"	f
+generateBezier.getSlope	public/lib/velocity/velocity.js	/^        function getSlope (aT, aA1, aA2) {$/;"	f
+generateBezier.getSlope	themes/next/source/lib/velocity/velocity.js	/^        function getSlope (aT, aA1, aA2) {$/;"	f
+generateBezier.getTForX	public/lib/velocity/velocity.js	/^        function getTForX (aX) {$/;"	f
+generateBezier.getTForX	themes/next/source/lib/velocity/velocity.js	/^        function getTForX (aX) {$/;"	f
+generateBezier.newtonRaphsonIterate	public/lib/velocity/velocity.js	/^        function newtonRaphsonIterate (aX, aGuessT) {$/;"	f
+generateBezier.newtonRaphsonIterate	themes/next/source/lib/velocity/velocity.js	/^        function newtonRaphsonIterate (aX, aGuessT) {$/;"	f
+generateBezier.precompute	public/lib/velocity/velocity.js	/^        function precompute() {$/;"	f
+generateBezier.precompute	themes/next/source/lib/velocity/velocity.js	/^        function precompute() {$/;"	f
+generateStep	public/lib/velocity/velocity.js	/^    function generateStep (steps) {$/;"	f
+generateStep	themes/next/source/lib/velocity/velocity.js	/^    function generateStep (steps) {$/;"	f
+getAspectRadio	public/js/src/utils.js	/^    function getAspectRadio(width, height) {$/;"	f
+getAspectRadio	themes/next/source/js/src/utils.js	/^    function getAspectRadio(width, height) {$/;"	f
+getDimension	public/js/src/utils.js	/^    function getDimension($element) {$/;"	f
+getDimension	themes/next/source/js/src/utils.js	/^    function getDimension($element) {$/;"	f
+getEasing	public/lib/velocity/velocity.js	/^    function getEasing(value, duration) {$/;"	f
+getEasing	themes/next/source/lib/velocity/velocity.js	/^    function getEasing(value, duration) {$/;"	f
+getValue	themes/next/scripts/merge.js	/^function getValue(object, key) {$/;"	f
+greaterSemver	public/lib/velocity/velocity.ui.js	/^    function greaterSemver (primary, secondary) {$/;"	f
+greaterSemver	themes/next/source/lib/velocity/velocity.ui.js	/^    function greaterSemver (primary, secondary) {$/;"	f
+hasOwnProperty	themes/next/scripts/merge.js	/^var hasOwnProperty = objectProto.hasOwnProperty;$/;"	v
+init	public/js/src/js.cookie.js	/^	function init (converter) {$/;"	f
+init	themes/next/source/js/src/js.cookie.js	/^	function init (converter) {$/;"	f
+init.api	public/js/src/js.cookie.js	/^		function api (key, value, attributes) {$/;"	f
+init.api	themes/next/source/js/src/js.cookie.js	/^		function api (key, value, attributes) {$/;"	f
+isArraylike	public/lib/velocity/velocity.js	/^    function isArraylike (obj) {$/;"	f
+isArraylike	themes/next/source/lib/velocity/velocity.js	/^    function isArraylike (obj) {$/;"	f
+isHostObject	themes/next/scripts/merge.js	/^function isHostObject(value) {$/;"	f
+mapToArray	themes/next/scripts/merge.js	/^function mapToArray(map) {$/;"	f
+merge	themes/next/scripts/merge-configs.js	/^var merge = require('.\/merge');$/;"	v
+moduleExports	themes/next/scripts/merge.js	/^var moduleExports = freeModule && freeModule.exports === freeExports;$/;"	v
+nodeIsTypedArray	themes/next/scripts/merge.js	/^var nodeIsTypedArray = nodeUtil && nodeUtil.isTypedArray;$/;"	v
+objectCtorString	themes/next/scripts/merge.js	/^var objectCtorString = funcToString.call(Object);$/;"	v
+objectToString	themes/next/scripts/merge.js	/^var objectToString = objectProto.toString;$/;"	v
+opts.begin	public/lib/velocity/velocity.ui.js	/^                        opts.begin = function() {$/;"	f
+opts.begin	themes/next/source/lib/velocity/velocity.ui.js	/^                        opts.begin = function() {$/;"	f
+opts.complete	public/lib/velocity/velocity.ui.js	/^                    opts.complete = function() {$/;"	f
+opts.complete	themes/next/source/lib/velocity/velocity.ui.js	/^                    opts.complete = function() {$/;"	f
+overArg	themes/next/scripts/merge.js	/^function overArg(func, transform) {$/;"	f
+pa	public/js/src/utils.js	/^    var pa = \/iPad|iPhone|Android|Opera Mini|BlackBerry|webOS|UCWEB|Blazer|PSP|IEMobile|Symbian\/g;$/;"	v
+pa	themes/next/source/js/src/utils.js	/^    var pa = \/iPad|iPhone|Android|Opera Mini|BlackBerry|webOS|UCWEB|Blazer|PSP|IEMobile|Symbian\/g;$/;"	v
+processElement	public/lib/velocity/velocity.js	/^        function processElement () {$/;"	f
+processElement	themes/next/source/lib/velocity/velocity.js	/^        function processElement () {$/;"	f
+processElement.buildQueue	public/lib/velocity/velocity.js	/^            function buildQueue (next) {$/;"	f
+processElement.buildQueue	themes/next/source/lib/velocity/velocity.js	/^            function buildQueue (next) {$/;"	f
+propertyValue	public/lib/velocity/velocity.js	/^            var propertyValue;$/;"	v
+propertyValue	themes/next/source/lib/velocity/velocity.js	/^            var propertyValue;$/;"	v
+reFlags	themes/next/scripts/merge.js	/^var reFlags = \/\\w*$\/;$/;"	v
+reIsHostCtor	themes/next/scripts/merge.js	/^var reIsHostCtor = \/^\\[object .+?Constructor\\]$\/;$/;"	v
+reIsUint	themes/next/scripts/merge.js	/^var reIsUint = \/^(?:0|[1-9]\\d*)$\/;$/;"	v
+return	public/lib/velocity/velocity.js	/^            return Object.prototype.toString.call(variable) === "[object Array]";$/;"	c
+return	themes/next/source/lib/velocity/velocity.js	/^            return Object.prototype.toString.call(variable) === "[object Array]";$/;"	c
+return.toString	public/lib/velocity/velocity.js	/^            return Object.prototype.toString.call(variable) === "[object Array]";$/;"	m
+return.toString	themes/next/source/lib/velocity/velocity.js	/^            return Object.prototype.toString.call(variable) === "[object Array]";$/;"	m
+root	themes/next/scripts/merge.js	/^var root = freeGlobal || freeSelf || Function('return this')();$/;"	v
+rootProperty	public/lib/velocity/velocity.js	/^                var rootProperty,$/;"	v
+rootProperty	themes/next/source/lib/velocity/velocity.js	/^                var rootProperty,$/;"	v
+sanitizeElements	public/lib/velocity/velocity.js	/^    function sanitizeElements (elements) {$/;"	f
+sanitizeElements	themes/next/source/lib/velocity/velocity.js	/^    function sanitizeElements (elements) {$/;"	f
+setToArray	themes/next/scripts/merge.js	/^function setToArray(set) {$/;"	f
+toString	public/lib/velocity/velocity.js	/^            return Object.prototype.toString.call(variable) === "[object Function]";$/;"	m
+toString	themes/next/source/lib/velocity/velocity.js	/^            return Object.prototype.toString.call(variable) === "[object Function]";$/;"	m
+tweensContainer.scroll	public/lib/velocity/velocity.js	/^                        scroll: {$/;"	p
+tweensContainer.scroll	themes/next/source/lib/velocity/velocity.js	/^                        scroll: {$/;"	p
+types	public/lib/velocity/velocity.js	/^    var types = "Boolean Number String Function Array Date RegExp Object Error".split(" ");$/;"	v
+types	themes/next/source/lib/velocity/velocity.js	/^    var types = "Boolean Number String Function Array Date RegExp Object Error".split(" ");$/;"	v
+ua	public/js/src/utils.js	/^    var ua = nav.userAgent;$/;"	v
+ua	themes/next/source/js/src/utils.js	/^    var ua = nav.userAgent;$/;"	v
+var.SVGTransforms.translate	public/lib/velocity/velocity.js	/^                    translate: [ getTransformFloat("translateX"), getTransformFloat("translateY") ],$/;"	p
+var.SVGTransforms.translate	themes/next/source/lib/velocity/velocity.js	/^                    translate: [ getTransformFloat("translateX"), getTransformFloat("translateY") ],$/;"	p
+var.converted.black	public/lib/velocity/velocity.js	/^                                                black: "rgb(0, 0, 0)",$/;"	p
+var.converted.black	themes/next/source/lib/velocity/velocity.js	/^                                                black: "rgb(0, 0, 0)",$/;"	p
+var.converted.blue	public/lib/velocity/velocity.js	/^                                                blue: "rgb(0, 0, 255)",$/;"	p
+var.converted.blue	themes/next/source/lib/velocity/velocity.js	/^                                                blue: "rgb(0, 0, 255)",$/;"	p
+var.converted.gray	public/lib/velocity/velocity.js	/^                                                gray: "rgb(128, 128, 128)",$/;"	p
+var.converted.gray	themes/next/source/lib/velocity/velocity.js	/^                                                gray: "rgb(128, 128, 128)",$/;"	p
+var.converted.green	public/lib/velocity/velocity.js	/^                                                green: "rgb(0, 128, 0)",$/;"	p
+var.converted.green	themes/next/source/lib/velocity/velocity.js	/^                                                green: "rgb(0, 128, 0)",$/;"	p
+var.converted.red	public/lib/velocity/velocity.js	/^                                                red: "rgb(255, 0, 0)",$/;"	p
+var.converted.red	themes/next/source/lib/velocity/velocity.js	/^                                                red: "rgb(255, 0, 0)",$/;"	p
+var.converted.white	public/lib/velocity/velocity.js	/^                                                white: "rgb(255, 255, 255)"$/;"	p
+var.converted.white	themes/next/source/lib/velocity/velocity.js	/^                                                white: "rgb(255, 255, 255)"$/;"	p
+var.resetOptions.duration	public/lib/velocity/velocity.ui.js	/^                            var resetOptions = { duration: 0, queue: false };$/;"	p
+var.resetOptions.duration	themes/next/source/lib/velocity/velocity.ui.js	/^                            var resetOptions = { duration: 0, queue: false };$/;"	p
+var.resetOptions.queue	public/lib/velocity/velocity.ui.js	/^                            var resetOptions = { duration: 0, queue: false };$/;"	p
+var.resetOptions.queue	themes/next/source/lib/velocity/velocity.ui.js	/^                            var resetOptions = { duration: 0, queue: false };$/;"	p
+window.Velocity.Utilities	public/lib/velocity/velocity.js	/^    window.Velocity = { Utilities: $ };$/;"	p
+window.Velocity.Utilities	themes/next/source/lib/velocity/velocity.js	/^    window.Velocity = { Utilities: $ };$/;"	p
